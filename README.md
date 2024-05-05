@@ -1,4 +1,4 @@
-﻿# Dollar-sDay-ECommerce-MERN
+﻿#Shopee-ECommerce-MERN
 This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) e-commerce website with a range of features, providing a seamless shopping experience. The project implements a beautiful and intuitive user interface with various functionalities for both customers and shoppers.
 
 Features
